@@ -1,0 +1,260 @@
+{"features": [{"geometry": 
+        {   "coordinates": [ -96.53143,
+                33.9814
+            ],
+            "type": "Point"},
+         "id": 1004377,
+         "properties": {
+                  "city" : "Melissa",
+                  "state" : "TX",
+                  "Emissions" : 199011.75
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -83.156046,
+                37.219099
+            ],
+            "type": "Point"},
+         "id": 1010040,
+         "properties": {
+                  "city" : "Hazard",
+                  "state" : "KY",
+                  "Emissions" : 118204.5
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -83.18126,
+                37.236617
+            ],
+            "type": "Point"},
+         "id": 1010085,
+         "properties": {
+                  "city" : "Hazard",
+                  "state" : "KY",
+                  "Emissions" : 55872.5
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -74,
+                40.663
+            ],
+            "type": "Point"},
+         "id": 1000112,
+         "properties": {
+                  "city" : "Brooklyn",
+                  "state" : "NY",
+                  "Emissions" : 67399.252
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -107.4455,
+                36.7452
+            ],
+            "type": "Point"},
+         "id": 1006394,
+         "properties": {
+                  "city" : "Blanco",
+                  "state" : "NM",
+                  "Emissions" : 15391.592
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -107.4036,
+                36.8118
+            ],
+            "type": "Point"},
+         "id": 1002885,
+         "properties": {
+                  "city" : "Aztec",
+                  "state" : "NM",
+                  "Emissions" : 22506.516
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -107.4199,
+                36.8363
+            ],
+            "type": "Point"},
+         "id": 1002707,
+         "properties": {
+                  "city" : "Bloomfield",
+                  "state" : "NM",
+                  "Emissions" : 52646.752
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -87.91633,
+                41.83491
+            ],
+            "type": "Point"},
+         "id": 1003742,
+         "properties": {
+                  "city" : "Westchester",
+                  "state" : "IL",
+                  "Emissions" : 92696.6
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -107.5604,
+                36.9313
+            ],
+            "type": "Point"},
+         "id": 1002718,
+         "properties": {
+                  "city" : "Blanco",
+                  "state" : "NM",
+                  "Emissions" : 33654.124
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -107.6631,
+                36.9569
+            ],
+            "type": "Point"},
+         "id": 1002721,
+         "properties": {
+                  "city" : "Blanco",
+                  "state" : "NM",
+                  "Emissions" : 40868.396
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -98.996513,
+                31.671177
+            ],
+            "type": "Point"},
+         "id": 1003188,
+         "properties": {
+                  "city" : "Brownwood",
+                  "state" : "TX",
+                  "Emissions" : 36754.712
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -92.9959,
+                44.951
+            ],
+            "type": "Point"},
+         "id": 1005043,
+         "properties": {
+                  "city" : "Maplewood",
+                  "state" : "MN",
+                  "Emissions" : 79440.076
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -87.899855,
+                33.96672
+            ],
+            "type": "Point"},
+         "id": 1003739,
+         "properties": {
+                  "city" : "Guin",
+                  "state" : "AL",
+                  "Emissions" : 31694.636
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -89.63647,
+                44.95097
+            ],
+            "type": "Point"},
+         "id": 1007698,
+         "properties": {
+                  "city" : "Wausau",
+                  "state" : "WI",
+                  "Emissions" : 22926.664
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -87.038611,
+                34.641667
+            ],
+            "type": "Point"},
+         "id": 1004206,
+         "properties": {
+                  "city" : "Decatur",
+                  "state" : "AL",
+                  "Emissions" : 47000.2876
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -90.284167,
+                41.755
+            ],
+            "type": "Point"},
+         "id": 1006665,
+         "properties": {
+                  "city" : "Cordova",
+                  "state" : "IL",
+                  "Emissions" : 889525.15
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -92.908333,
+                44.789444
+            ],
+            "type": "Point"},
+         "id": 1004836,
+         "properties": {
+                  "city" : "Cottage Grove",
+                  "state" : "MN",
+                  "Emissions" : 45073.584
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -92.239492,
+                34.708919
+            ],
+            "type": "Point"},
+         "id": 1003408,
+         "properties": {
+                  "city" : "Little Rock",
+                  "state" : "AR",
+                  "Emissions" : 24870.356
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -94.361896,
+                44.879294
+            ],
+            "type": "Point"},
+         "id": 1004914,
+         "properties": {
+                  "city" : "Hutchinson",
+                  "state" : "MN",
+                  "Emissions" : 36316.764
+          },
+         "type": "Feature"
+        },
+{"geometry": 
+        {   "coordinates": [ -94.330397,
+                37.83442
+            ],
+            "type": "Point"},
+         "id": 1004804,
+         "properties": {
+                  "city" : "Nevada",
+                  "state" : "MO",
+                  "Emissions" : 31007.384
+          },
+         "type": "Feature"
+        }], "type": "FeatureCollection"}
