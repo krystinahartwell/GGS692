@@ -5,6 +5,8 @@
             "type": "Point"},
          "id": 1004377,
          "properties": {
+		  "facility_name" : "121 REGIONAL DISPOSAL FACILITY",
+		  "industry_type" : "Waste",
                   "city" : "Melissa",
                   "state" : "TX",
                   "Emissions" : 199011.75
@@ -18,6 +20,8 @@
             "type": "Point"},
          "id": 1010040,
          "properties": {
+		  "facility_name" : "15-18565/15-18662",
+		  "industry_type" : "Other",
                   "city" : "Hazard",
                   "state" : "KY",
                   "Emissions" : 118204.5
@@ -31,6 +35,8 @@
             "type": "Point"},
          "id": 1010085,
          "properties": {
+		  "facility_name" : "15-19015",
+		  "industry_type" : "Other",
                   "city" : "Hazard",
                   "state" : "KY",
                   "Emissions" : 55872.5
@@ -44,6 +50,8 @@
             "type": "Point"},
          "id": 1000112,
          "properties": {
+		  "facility_name" : "23rd and 3rd",
+		  "industry_type" : "Power Plants",
                   "city" : "Brooklyn",
                   "state" : "NY",
                   "Emissions" : 67399.252
@@ -57,6 +65,8 @@
             "type": "Point"},
          "id": 1006394,
          "properties": {
+		  "facility_name" : "29-6 #2 Central Delivery Point",
+		  "industry_type" : "Petroleum and Natural Gas Systems",
                   "city" : "Blanco",
                   "state" : "NM",
                   "Emissions" : 15391.592
@@ -70,6 +80,8 @@
             "type": "Point"},
          "id": 1002885,
          "properties": {
+		  "facility_name" : "30-5 Central Delivery Point Compressor Station",
+		  "industry_type" : "Petroleum and Natural Gas Systems",
                   "city" : "Aztec",
                   "state" : "NM",
                   "Emissions" : 22506.516
@@ -83,6 +95,8 @@
             "type": "Point"},
          "id": 1002707,
          "properties": {
+		  "facility_name" : "31-6 Central Delivery Point",
+		  "industry_type" : "Petroleum and Natural Gas Systems",
                   "city" : "Bloomfield",
                   "state" : "NM",
                   "Emissions" : 52646.752
@@ -96,6 +110,8 @@
             "type": "Point"},
          "id": 1003742,
          "properties": {
+		  "facility_name" : "31st Street Landfill",
+		  "industry_type" : "Waste",
                   "city" : "Westchester",
                   "state" : "IL",
                   "Emissions" : 92696.6
@@ -109,6 +125,8 @@
             "type": "Point"},
          "id": 1002718,
          "properties": {
+		  "facility_name" : "32-7 Central Delivery Point",
+		  "industry_type" : "Petroleum and Natural Gas Systems",
                   "city" : "Blanco",
                   "state" : "NM",
                   "Emissions" : 33654.124
@@ -122,6 +140,8 @@
             "type": "Point"},
          "id": 1002721,
          "properties": {
+		  "facility_name" : "32-8 #2 CDP COMPRESSOR STATION",
+		  "industry_type" : "Petroleum and Natural Gas Systems",
                   "city" : "Blanco",
                   "state" : "NM",
                   "Emissions" : 40868.396
@@ -135,6 +155,8 @@
             "type": "Point"},
          "id": 1003188,
          "properties": {
+		  "facility_name" : "3M BROWNWOOD",
+		  "industry_type" : "Minerals",
                   "city" : "Brownwood",
                   "state" : "TX",
                   "Emissions" : 36754.712
@@ -148,6 +170,8 @@
             "type": "Point"},
          "id": 1005043,
          "properties": {
+		  "facility_name" : "3M CO",
+		  "industry_type" : "Other",
                   "city" : "Maplewood",
                   "state" : "MN",
                   "Emissions" : 79440.076
@@ -161,6 +185,8 @@
             "type": "Point"},
          "id": 1003739,
          "properties": {
+		  "facility_name" : "3M CO - GUIN",
+		  "industry_type" : "Minerals",
                   "city" : "Guin",
                   "state" : "AL",
                   "Emissions" : 31694.636
@@ -174,6 +200,8 @@
             "type": "Point"},
          "id": 1007698,
          "properties": {
+		  "facility_name" : "3M CO - WAUSAU DOWNTOWN",
+		  "industry_type" : "Other",
                   "city" : "Wausau",
                   "state" : "WI",
                   "Emissions" : 22926.664
@@ -187,6 +215,8 @@
             "type": "Point"},
          "id": 1004206,
          "properties": {
+		  "facility_name" : "3M COMPANY",
+		  "industry_type" : "Chemicals,Industrial Gas Suppliers",
                   "city" : "Decatur",
                   "state" : "AL",
                   "Emissions" : 47000.2876
@@ -200,6 +230,8 @@
             "type": "Point"},
          "id": 1006665,
          "properties": {
+		  "facility_name" : "3M CORDOVA",
+		  "industry_type" : "Chemicals,Industrial Gas Suppliers",
                   "city" : "Cordova",
                   "state" : "IL",
                   "Emissions" : 889525.15
@@ -213,6 +245,8 @@
             "type": "Point"},
          "id": 1004836,
          "properties": {
+		  "facility_name" : "3M Cottage Grove Center - Site",
+		  "industry_type" : "Chemicals,Industrial Gas Suppliers,Minerals",
                   "city" : "Cottage Grove",
                   "state" : "MN",
                   "Emissions" : 45073.584
@@ -226,6 +260,8 @@
             "type": "Point"},
          "id": 1003408,
          "properties": {
+		  "facility_name" : "3M INDUSTRIAL MINERAL PRODUCTS DIVISION",
+		  "industry_type" : "Other",
                   "city" : "Little Rock",
                   "state" : "AR",
                   "Emissions" : 24870.356
@@ -239,6 +275,8 @@
             "type": "Point"},
          "id": 1004914,
          "properties": {
+		  "facility_name" : "3M MAGNETIC TAPE MANUFACTURING DIVISION",
+		  "industry_type" : "Pulp and Paper",
                   "city" : "Hutchinson",
                   "state" : "MN",
                   "Emissions" : 36316.764
@@ -252,6 +290,8 @@
             "type": "Point"},
          "id": 1004804,
          "properties": {
+		  "facility_name" : "3M NEVADA PLANT",
+		  "industry_type" : "Other",
                   "city" : "Nevada",
                   "state" : "MO",
                   "Emissions" : 31007.384
